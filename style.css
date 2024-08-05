@@ -1,0 +1,14 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.containerM{
+display: grid;
+grid-template-columns: auto auto;
+text-align: center;
+width: 100%;
+text-align: center;
+}
+.colums{
+  text-align: center;
+}
